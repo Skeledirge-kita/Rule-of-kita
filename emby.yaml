@@ -1,0 +1,16 @@
+#misakaf
+#纸片人小站
+#纸片人直链
+#pilipili
+#hxd_emby
+#野兽制 EMBY 会员餐厅
+#卡绒
+payload:
+  - DOMAIN-SUFFIX,misakaf.org 
+  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,gd.9521732.xyz
+  - DOMAIN-SUFFIX,emby77.org
+  - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,mius.uk
+  - DOMAIN-SUFFIX,charontv.com
+  
