@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,gd.9521732.xyz
   - DOMAIN-SUFFIX,pilipiliultra.top
   - DOMAIN-SUFFIX,pilipiliultra.com
-  - IP-CIDR,202.61.203.218
+  - IP-CIDR,202.61.192.0/20
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,charontv.com
