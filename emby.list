@@ -1,3 +1,17 @@
+#misakaf
+#纸片人小站
+#纸片人直链
+#pilipili
+#hxd_emby
+#野兽制 EMBY 会员餐厅
+#卡绒
 payload:
-  - DOMAIN-SUFFIX,emby-mix.atomlantis.cloud
-  - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
+  - HOST-SUFFIX,misakaf.org,Emby
+  - HOST-SUFFIX,embyplus.org,Emby
+  - HOST-SUFFIX,gd.9521732.xyz,Emby
+  - HOST-SUFFIX,pilipiliultra.top,Emby
+  - HOST-SUFFIX,pilipiliultra.com,Emby
+  - IP-CIDR,202.61.192.0/20,Emby
+  - HOST-SUFFIX,bili.rip,Emby
+  - HOST-SUFFIX,mius.uk,Emby
+  - HOST-SUFFIX,charontv.com,Emby
