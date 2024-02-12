@@ -1,3 +1,4 @@
+#peach
 #misakaf
 #纸片人小站
 #纸片人直链
@@ -6,6 +7,7 @@
 #野兽制 EMBY 会员餐厅
 #卡绒
 payload:
+  - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,misakaf.org 
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,gd.9521732.xyz
